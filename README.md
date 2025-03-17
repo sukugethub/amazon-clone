@@ -1,4 +1,4 @@
 # amazon-clone
 this is my first git repository 
 
-author- sukumar singh
+author- sukumar singh(hello)
